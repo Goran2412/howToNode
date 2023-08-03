@@ -1,4 +1,5 @@
 // yeah this sucks
+// FUCK HELLO WORLD, EMBRACE SALUTATING
 
 const hi = 'hi ';
 
