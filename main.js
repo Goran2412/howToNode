@@ -1,5 +1,6 @@
 // yeah this sucks
 
-const hi = 'hi';
+const hi = 'hi ';
 
-const sayHello = (name) => console.log(hi + `${name}` + 'how you doin?');
+const sayHello = (name) => console.log(hi + `${name}` + ". how you doin'?");
+sayHello("Goran");
